@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/MarkdownRenderer",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/MarkdownRenderer": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/MarkdownRenderer",
+    "origin"
+  ]
+}
